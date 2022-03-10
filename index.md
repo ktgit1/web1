@@ -1,5 +1,32 @@
 ## Welcome to GitHub Pages
 
+<!DOCTYPE html>
+<html>
+<body>
+
+<body background="samefile.jpg">
+<body bgcolor=#909090>
+
+<h1 style="background-color: blue;">Hello ittweb.ca!</h1>
+<p>Welcome  to ittweb.ca  .</p>
+
+<style>
+</style>
+
+<script>
+</script>
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/ktgit1/web1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
